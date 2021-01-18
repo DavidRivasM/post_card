@@ -1,0 +1,67 @@
+.body {
+    font-size: 20px;
+    padding: 50px;
+    font-family: 'Pacifico', cursive;
+    background-color: grey;
+}
+
+.cuerpo {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 20px;
+    background-color: white;
+}
+
+.cabecera {
+    width: 100%;
+    height: 100px;
+}
+.cabecera img {
+    width: 125px;
+    position: relative;
+    right: -575px;
+    top: -130px;
+}
+.cuerpo_izq {
+    float: left;
+    width: 50%;
+    height: 300px;
+    text-align: justify;
+}
+section p {
+    display: inline;
+}
+.cuerpo_der {
+    float: right;
+    width: 50%;
+    height: 300px;
+    position: relative;
+    right: -90px;
+    top: 20px;
+}
+.cuerpo_der input {
+    display: block;
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 10px;
+    width: 300px;
+    position: relative;
+    right: 50px;
+    top: 0px;
+}
+.pie {
+    float: inherit;
+    text-align: center;
+    padding: 20px;
+}
+.pie input {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+}
+#ob1 {
+    position: relative;
+    right: 550px;
+    top: -100px;
+}
